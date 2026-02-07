@@ -1,0 +1,3 @@
+#!/bin/bash
+niri msg action focus-monitor DP-1
+ndrop foot -a floot
